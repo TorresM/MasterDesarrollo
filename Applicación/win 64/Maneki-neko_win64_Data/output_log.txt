@@ -1,0 +1,76 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+[VRDevice] Successfully created device oculus.
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 670 (ID=0x1189)
+    Vendor:   NVIDIA
+    VRAM:     1990 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Dropbox\master\TFM\Memoria\Entrega\Aplicación\win 64\Maneki-neko_win64_Data\Managed\System.dll (this message is harmless)
+Shader 'Toon/Basic Outline': fallback shader 'Toon/Basic' not found
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Setting to default shader.
+[CAPI] LibOVR module is located at C:\Windows\system32\LibOVRRT64_0_6.dll
+
+ 
+(Filename:  Line: 52)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 460 -> priority: 1 
+  Thread -> id: 1e30 -> priority: 1 
+one Leap
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+two off
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+LOAD C:/Users/Zay/AppData/LocalLow/Marina Torres Anaya/Maneki_neko/save_Marina.dat
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.027796 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 898.
+Total: 0.266400 ms (FindLiveObjects: 0.035166 ms CreateObjectMapping: 0.018787 ms MarkObjects: 0.201365 ms  DeleteObjects: 0.009875 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.468488 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1010.
+Total: 0.328784 ms (FindLiveObjects: 0.040465 ms CreateObjectMapping: 0.019028 ms MarkObjects: 0.244721 ms  DeleteObjects: 0.023605 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.626016 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 897.
+Total: 0.328303 ms (FindLiveObjects: 0.041911 ms CreateObjectMapping: 0.020473 ms MarkObjects: 0.228102 ms  DeleteObjects: 0.037093 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.596630 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1010.
+Total: 0.313851 ms (FindLiveObjects: 0.040706 ms CreateObjectMapping: 0.018787 ms MarkObjects: 0.234123 ms  DeleteObjects: 0.019751 ms)
+
